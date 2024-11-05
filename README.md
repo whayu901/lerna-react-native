@@ -10,6 +10,10 @@ Enter fullscreen mode Exit fullscreen mode
 
 This project is a simple example of how to use Lerna to manage a monorepo with React Native and Android.
 
+## Diagram
+
+https://www.tldraw.com/r/-XumJIAwBmiqtFdNc61VD?d=v-437.-573.5461.2495.9Cdu7TuaH03aOOUHiJDXG
+
 ## Installation
 
 1. Clone the repository
