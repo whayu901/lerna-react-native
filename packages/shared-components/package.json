@@ -1,0 +1,13 @@
+{
+  "name": "@shared/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@babel/runtime": "^7.26.0"
+  }
+}
