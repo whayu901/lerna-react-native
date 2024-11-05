@@ -37,7 +37,7 @@ const Section: React.FC<
   const isDarkMode = useColorScheme() === 'dark';
   return (
     <View style={styles.sectionContainer}>
-      <Button />
+      <Button text="hello world" />
       <Text
         style={[
           styles.sectionDescription,
