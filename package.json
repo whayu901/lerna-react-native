@@ -1,6 +1,18 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "lint": "lerna run lint",
+    "prepare": "lerna run prepare",
+    "start": "lerna run start",
+    "android": "lerna run android",
+    "ios": "lerna run ios",
+    "android:example": "lerna --scope:AwesomeTSProject run android"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
