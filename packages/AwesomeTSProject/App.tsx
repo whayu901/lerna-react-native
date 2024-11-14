@@ -1,23 +1,11 @@
 import React from 'react';
-import {Button, View, StyleSheet} from 'react-native';
-import {createMainNavigator, navigationRef} from '@shared/navigation';
-
-const MainNavigator = createMainNavigator();
+import {View, StyleSheet} from 'react-native';
+import MainNavigator from '@shared/navigation';
 
 export default function App() {
   return (
     <View style={styles.container}>
       <MainNavigator />
-      <View style={styles.buttonsContainer}>
-        <Button
-          title="Go to App1 Home"
-          onPress={() => navigationRef.navigate('Home')}
-        />
-        <Button
-          title="Go to App2 Dashboard"
-          onPress={() => navigationRef.navigate('Dashboard')}
-        />
-      </View>
     </View>
   );
 }
