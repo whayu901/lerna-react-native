@@ -14,6 +14,8 @@ This project is a simple example of how to use Lerna to manage a monorepo with R
 
 https://www.tldraw.com/r/-XumJIAwBmiqtFdNc61VD?d=v-437.-573.5461.2495.9Cdu7TuaH03aOOUHiJDXG
 
+https://docs.google.com/spreadsheets/d/1j-3UEkrcFhjZCoibnSNqneM4Z7dFfy6YP199Lq8pVPg/edit?gid=0#gid=0
+
 ## Installation
 
 1. Clone the repository
