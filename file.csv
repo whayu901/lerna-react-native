@@ -1,0 +1,45 @@
+User Story	task
+	
+Initiate project with new architecture	Setup Lerna
+	Setup React Native framework
+	Setup Sonarqube
+	Setup Shared-component/utils/service
+	Setup global config
+	Setup Versioning an app android
+	Setup DB connection
+	Setup Authentication
+	Setup Certificate SSL
+	
+	
+	
+	
+	
+User can login online and offline	Setup authentication login
+	Setup connection with db sqlite for offline login
+	Implement API for login on online mode
+	
+	
+Permission access for each app	Implementation an API for checking permission every user
+	Implement an API for sync for retreive master data
+	
+	
+	
+	
+User can create a defect report in mobile	Able to scan qr
+	Create page to input defect report
+	Create table to store the defect report
+	Create files if the report has photo/video
+	
+	
+	
+	
+	
+	
+	
+User can send the defect report to web	Create page for a list of created defect report
+	Implement API to send data (text) to web
+	Implement API to send data (image) to web
+	Implement API to send data (video) to web
+	Create filter by date for a list
+User can see master equipment data	Create table to store master equipment data
+	Implement API to receive master equipment data
